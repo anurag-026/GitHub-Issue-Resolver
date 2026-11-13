@@ -1,0 +1,21 @@
+node_modules/
+.next/
+.env
+.agents/
+.specify/
+gateway/dist/
+specs/
+tests/
+
+docs/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.mypy_cache/
+.pytest_cache/
+.coverage
+htmlcov/
+
